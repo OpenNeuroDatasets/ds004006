@@ -1,10 +1,12 @@
 {
-	"Name": "Stat Learning",
-	"BIDSVersion": "1.2.0",
-	"Authors": [
-		"Wammes, J.", "Norman, K.A.", "Turk-Browne, N.B."
-	],
-	"ReferencesAndLinks": [
-        
-    ]
+    "Name": "Stat Learning",
+    "BIDSVersion": "1.2.0",
+    "Authors": [
+        "Wammes, J.",
+        "Norman, K.A.",
+        "Turk-Browne, N.B."
+    ],
+    "ReferencesAndLinks": [],
+    "DatasetDOI": "doi:10.18112/openneuro.ds004006.v1.0.0",
+    "License": "CC0"
 }
